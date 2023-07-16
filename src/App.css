@@ -16,6 +16,11 @@ height: 650px;
         margin-top: 250px !important;
         border-radius: 0 ;
     }
+    .dodocall{
+      padding: 20px 20px;
+      margin-left: 10px;
+      z-index: 1;
+    }
 }
 
 .cs-message-list{
